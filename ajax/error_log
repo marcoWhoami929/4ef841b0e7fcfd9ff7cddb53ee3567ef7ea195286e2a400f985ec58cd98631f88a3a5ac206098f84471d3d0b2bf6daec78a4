@@ -1,0 +1,2 @@
+[17-Mar-2023 13:16:39 America/Mexico_City] PHP Strict Standards:  Non-static method Conexion::conectar() should not be called statically in /home/sanfranc/public_html/paginaWeb/models/products.model.php on line 132
+[17-Mar-2023 13:16:39 America/Mexico_City] PHP Strict Standards:  Non-static method Conexion::conectar() should not be called statically in /home/sanfranc/public_html/paginaWeb/models/products.model.php on line 132
